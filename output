@@ -1,0 +1,1294 @@
+C:\Users\musta\PycharmProjects\text-to-kg\venv\Scripts\python.exe "C:/Program Files/JetBrains/PyCharm 2023.1.2/plugins/python/helpers/pydev/pydevd.py" --multiprocess --qt-support=auto --client 127.0.0.1 --port 50226 --file C:\Users\musta\PycharmProjects\text-to-kg\text-to-kg.py
+Connected to pydev debugger (build 231.9011.38)
+Knowledge Graph:
+Stone
+  -> naming: one
+  -> included: her
+one
+  -> naming: Stone
+  -> featured: album
+  -> reached: song
+  -> dominated: music
+hiatus
+  -> saw: release
+  -> pursue: careers
+release
+  -> saw: hiatus
+  -> followed: she
+Beyoncé
+  -> achieved: acclaim
+  -> researched: ancestry
+  -> recorded: duet
+  -> landed: role
+  -> made: debut
+  -> starred: Temptations
+  -> premiered: songs
+  -> performed: anthem
+  -> released: Listen
+  -> conducted: drives
+  -> attain: singles
+  -> improvising: re
+  -> expanded: career
+  -> donated: salary
+  -> received: nominations
+  -> provide: vocals
+  -> performed: anthem
+  -> voiced: Tara
+  -> released: album
+  -> received: acclaim
+  -> sold: units
+  -> sold: copies
+  -> announced: their
+  -> won: awards
+  -> announced: Tour
+  -> bringing: husband
+  -> released: clip
+  -> occupied: place
+  -> headline: Festival
+  -> donated: proceeds
+  -> played: first
+  -> headlined: Festival
+  -> signed: deal
+  -> starred: King
+  -> released: Parade
+  -> received: nominations
+  -> removed: pictures
+  -> caused: speculation
+  -> announced: album
+  -> joined: McCartney
+  -> faced: criticism
+  -> announced: Tour
+  -> released: film
+  -> recorded: songs
+  -> received: credits
+  -> listed: magazine
+  -> received: criticism
+  -> had: concept
+  -> attended: her
+  -> cited: Madonna
+  -> paid: homage
+  -> inspired: boldness
+  -> expressed: admiration
+  -> cited: Cher
+  -> introduced: band
+  -> supported: band
+  -> received: praise
+  -> described: ex
+  -> described: -
+  -> described: President
+  -> introduced: her
+  -> made: debut
+  -> features: figure
+  -> uses: styles
+  -> recognized: magazine
+  -> criticized: organization
+  -> criticized: H&M
+  -> said: that
+  -> performed: Love
+  -> gave: birth
+  -> uploaded: image
+  -> performed: America
+  -> attended: fundraiser
+  -> wore: pantsuits
+  -> endorsed: marriage
+  -> voiced: support
+  -> placed: Forbes
+  -> earned: average
+  -> tied: This
+  -> have: worth
+  -> described: Rosen
+  -> credited: critics
+  -> described: Williams
+  -> changed: genre
+  -> revived: format
+  -> brought: album
+  -> received: awards
+  -> listed: Association
+  -> received: award
+  -> received: Award
+  -> received: Award
+  -> won: Awards
+  -> set: record
+  -> tied: record
+  -> won: awards
+  -> won: award
+  -> founded: Entertainment
+  -> signed: artists
+  -> signed: deal
+  -> launched: fragrance
+  -> launched: fragrance
+  -> had: deals
+  -> formed: partnership
+  -> donating: memberships
+  -> introduced: House
+  -> founded: company
+  -> launched: label
+  -> signed: deal
+  -> uploaded: teaser
+  -> reached: decision
+  -> built: Center
+  -> founded: Foundation
+  -> contributed: 250,000
+  -> donated: 100,000
+  -> founded: Apartments
+  -> donated: million
+  -> donated: salary
+  -> established: Center
+  -> joined: forces
+  -> released: cover
+  -> took: part
+  -> support: initiatives
+  -> donated: 82,000
+  -> donated: money
+  -> donated: million
+  -> donated: million
+  -> launched: Houston
+  -> visited: Houston
+  -> donated: worth
+  -> released: remix
+  -> donated: million
+  -> released: remix
+  -> provided: tests
+  -> established: Fund
+  -> released: statement
+  -> showed: support
+  -> donated: 500,000
+acclaim
+  -> achieved: Beyoncé
+  -> received: film
+  -> received: Beyoncé
+  -> received: Renaissance
+which
+  -> explored: themes
+  -> established: group
+  -> spent: weekend
+  -> entered: ten
+  -> reached: five
+  -> highlighted: stops
+  -> listed: Lemonade
+  -> paid: tribute
+  -> list: her
+  -> provoked: Fusari
+  -> includes: bassists
+  -> raised: million
+  -> uses: TV
+  -> set: standard
+  -> started: trend
+  -> had: video
+  -> featured: song
+  -> provides: management
+  -> offers: course
+  -> offers: grants
+themes
+  -> explored: which
+  -> concerns: it
+Hot
+  -> include: Crazy
+Crazy
+  -> include: Hot
+Ladies
+  -> Put: Ring
+  -> won: Song
+  -> won: Video
+Ring
+  -> Put: Ladies
+ventures
+  -> include: Everything
+Everything
+  -> include: ventures
+  -> unveiled: pair
+accolades
+  -> include: Awards
+Awards
+  -> include: accolades
+  -> attended: couple
+  -> won: Beyoncé
+success
+  -> earned: recognition
+  -> affected: fashion
+recognition
+  -> earned: success
+Time
+  -> included: her
+her
+  -> included: Time
+  -> visit: cities
+  -> called: wrote
+  -> list: which
+  -> attended: five
+  -> attended: Beyoncé
+  -> introduced: Beyoncé
+  -> bring: she
+  -> placed: GQ
+  -> listed: VH1
+  -> celebrate: heritage
+  -> included: Stone
+  -> named: Billboard
+  -> named: Billboard
+  -> named: Consequence
+  -> named: Billboard
+who
+  -> defined: century
+  -> taken: refuge
+  -> married: slave
+  -> said: she
+  -> perceives: message
+  -> sacrifice: themselves
+  -> use: cadence
+  -> made: difference
+  -> lost: homes
+  -> reached: number
+century
+  -> defined: who
+refuge
+  -> taken: who
+Estates
+  -> divided: lands
+lands
+  -> divided: Estates
+she
+  -> married: descendant
+  -> finished: it
+  -> sang: solo
+  -> met: Roberson
+  -> starred: Hudson
+  -> garnered: nominations
+  -> parted: ways
+  -> took: stage
+  -> performed: performances
+  -> received: Award
+  -> broke: record
+  -> headline: festival
+  -> followed: release
+  -> releasing: music
+  -> launched: brand
+  -> announced: act
+  -> incorporates: soul
+  -> releases: songs
+  -> approaches: songwriting
+  -> attributed: herself
+  -> presented: him
+  -> said: who
+  -> did: what
+  -> describes: what
+  -> takes: role
+  -> created: ego
+  -> bring: her
+  -> performed: it
+  -> revealed: account
+  -> expecting: twins
+  -> had: control
+  -> championed: marriage
+  -> topped: list
+  -> changed: vocabulary
+  -> received: Songwriter
+  -> received: Award
+  -> received: Award
+  -> received: Award
+  -> received: Award
+  -> received: Award
+  -> won: awards
+  -> promoted: fragrance
+  -> gives: money
+  -> sponsored: lunch
+  -> donated: million
+descendant
+  -> married: she
+ancestry
+  -> researched: Beyoncé
+slave
+  -> married: who
+it
+  -> finished: she
+  -> reached: sales
+  -> concerns: themes
+  -> describing: outlets
+  -> do: you
+  -> performed: she
+  -> made: couple
+She
+  -> attended: School
+  -> played: Charles
+  -> received: nomination
+  -> admires: Ross
+  -> credits: singing
+  -> described: Fierce
+  -> performed: anthem
+  -> endorsed: bid
+  -> align: herself
+  -> spoke: bill
+  -> attended: rally
+  -> topped: list
+  -> topped: list
+  -> get: credit
+  -> received: Otto
+  -> won: awards
+  -> bought: Green
+  -> owns: brand
+School
+  -> attended: She
+solo
+  -> sang: she
+Roberson
+  -> met: she
+Frager
+  -> brought: them
+them
+  -> brought: Frager
+move
+  -> reduced: income
+income
+  -> reduced: move
+Mathew
+  -> cut: four
+four
+  -> cut: Mathew
+This
+  -> put: strain
+  -> incited: criticism
+  -> tied: Beyoncé
+strain
+  -> put: This
+Entertainment
+  -> signed: group
+  -> founded: =
+  -> founded: Beyoncé
+group
+  -> signed: Entertainment
+  -> got: contract
+  -> changed: name
+  -> released: debut
+  -> established: which
+  -> released: album
+  -> released: album
+  -> sold: records
+contract
+  -> got: group
+Child
+  -> changed: name
+  -> released: song
+  -> completing: album
+name
+  -> changed: Child
+  -> changed: =
+  -> changed: =
+  -> changed: group
+  -> paying: tribute
+=
+  -> changed: name
+  -> changed: name
+  -> founded: Entertainment
+  -> introduced: House
+  -> See: list
+song
+  -> released: Child
+  -> topped: chart
+  -> reached: one
+  -> included: lyrics
+  -> wrote: latter
+  -> featured: which
+debut
+  -> released: group
+  -> made: Beyoncé
+  -> have: woman
+  -> have: act
+  -> made: Beyoncé
+They
+  -> released: album
+  -> made: appearance
+album
+  -> released: They
+  -> released: group
+  -> completing: Child
+  -> spawned: hits
+  -> sold: copies
+  -> earned: awards
+  -> released: group
+  -> featured: one
+  -> reached: streams
+  -> released: Beyoncé
+  -> included: publications
+  -> announced: Beyoncé
+  -> experience: listeners
+  -> initiated: trend
+  -> brought: Beyoncé
+  -> popularized: releases
+record
+  -> features: songs
+  -> broke: she
+  -> established: It
+  -> set: Beyoncé
+  -> tied: Beyoncé
+songs
+  -> features: record
+  -> premiered: Beyoncé
+  -> performed: they
+  -> releases: she
+  -> recorded: Beyoncé
+  -> influenced: way
+  -> releasing: artists
+Writing
+  -> sold: copies
+  -> invented: form
+copies
+  -> sold: Writing
+  -> sold: album
+  -> sold: It
+  -> sold: 4
+  -> sold: Beyoncé
+duet
+  -> recorded: Beyoncé
+role
+  -> landed: Beyoncé
+  -> takes: she
+  -> plays: race
+Luckett
+  -> filed: lawsuit
+lawsuit
+  -> filed: Luckett
+hits
+  -> spawned: album
+latter
+  -> earned: Award
+  -> wrote: song
+Award
+  -> earned: latter
+  -> received: she
+  -> received: she
+  -> received: she
+  -> received: she
+  -> received: she
+  -> received: Beyoncé
+  -> received: Beyoncé
+  -> received: she
+  -> won: Lemonade
+careers
+  -> pursue: hiatus
+weekend
+  -> spent: which
+ten
+  -> entered: which
+Temptations
+  -> starred: Beyoncé
+film
+  -> received: reviews
+  -> received: acclaim
+  -> received: reviews
+  -> released: Beyoncé
+  -> chronicles: development
+  -> included: mothers
+reviews
+  -> received: film
+  -> received: film
+  -> received: Love
+Williams
+  -> released: efforts
+  -> described: Beyoncé
+efforts
+  -> released: Williams
+Boy
+  -> reached: number
+number
+  -> reached: Boy
+  -> hit: that
+  -> reached: who
+both
+  -> reached: five
+five
+  -> reached: both
+  -> reached: which
+  -> reached: Vu
+  -> attended: her
+awards
+  -> earned: album
+  -> won: Beyoncé
+  -> received: Beyoncé
+  -> won: she
+  -> won: She
+  -> won: Beyoncé
+anthem
+  -> performed: Beyoncé
+  -> performed: XLVII
+  -> performed: Beyoncé
+  -> performed: She
+Fulfilled
+  -> included: singles
+singles
+  -> included: Fulfilled
+  -> produced: B'Day
+  -> attain: Beyoncé
+they
+  -> performed: songs
+  -> taking: that
+  -> announced: date
+records
+  -> sold: group
+  -> sells: what
+  -> sells: What
+  -> sold: couple
+It
+  -> sold: copies
+  -> placed: fourth
+  -> established: record
+  -> says: lot
+Vu
+  -> reached: five
+B'Day
+  -> produced: singles
+  -> won: award
+  -> received: nominations
+award
+  -> won: B'Day
+  -> received: Beyoncé
+  -> won: Beyoncé
+nominations
+  -> received: B'Day
+  -> garnered: she
+  -> received: Beyoncé
+  -> led: Lemonade
+  -> received: Homecoming
+  -> received: Film
+  -> received: Beyoncé
+Hudson
+  -> starred: she
+Listen
+  -> released: Beyoncé
+drives
+  -> conducted: Beyoncé
+Halo
+  -> achieved: accomplishment
+accomplishment
+  -> achieved: Halo
+video
+  -> won: categories
+  -> released: pair
+  -> had: which
+categories
+  -> won: video
+re
+  -> improvising: Beyoncé
+career
+  -> expanded: Beyoncé
+performance
+  -> received: praise
+  -> saw: Nights
+  -> had: concepts
+praise
+  -> received: performance
+  -> received: Beyoncé
+salary
+  -> donated: Beyoncé
+  -> donated: Beyoncé
+Charles
+  -> played: She
+vocals
+  -> provide: Beyoncé
+chart
+  -> topped: song
+  -> debuting: tracks
+ways
+  -> parted: she
+cities
+  -> visit: her
+that
+  -> detailed: break
+  -> hit: number
+  -> taking: they
+  -> admire: I
+  -> understand: people
+  -> said: Beyoncé
+  -> gives: lot
+  -> dominates: industry
+  -> include: handbags
+  -> support: creation
+break
+  -> detailed: that
+publications
+  -> discussed: attitude
+  -> included: album
+attitude
+  -> discussed: publications
+4
+  -> sold: copies
+  -> demonstrated: exploration
+Love
+  -> spent: weeks
+  -> received: reviews
+  -> performed: Beyoncé
+weeks
+  -> spent: Love
+stage
+  -> took: she
+Nights
+  -> saw: performance
+sales
+  -> reached: it
+streams
+  -> reached: album
+  -> surpass: three
+three
+  -> surpass: streams
+performances
+  -> performed: she
+XLVII
+  -> performed: anthem
+tour
+  -> included: dates
+  -> announced: couple
+dates
+  -> included: tour
+Tara
+  -> voiced: Beyoncé
+woman
+  -> have: debut
+  -> lead: country
+  -> oversaw: development
+units
+  -> sold: Beyoncé
+their
+  -> announced: Beyoncé
+earnings
+  -> released: Formation
+Formation
+  -> released: earnings
+  -> won: Video
+NFL
+  -> forbids: statements
+statements
+  -> forbids: NFL
+Tour
+  -> announced: Beyoncé
+  -> announced: Beyoncé
+  -> boycotting: police
+stops
+  -> highlighted: which
+husband
+  -> bringing: Beyoncé
+  -> acquired: company
+clip
+  -> released: Beyoncé
+act
+  -> have: debut
+  -> announced: she
+tracks
+  -> debuting: chart
+Lemonade
+  -> listed: which
+  -> led: nominations
+  -> won: Album
+  -> won: Award
+place
+  -> occupied: Beyoncé
+  -> took: concert
+Festival
+  -> headline: Beyoncé
+  -> headlined: Beyoncé
+festival
+  -> headline: she
+proceeds
+  -> donated: Beyoncé
+  -> benefiting: Bread
+Eminem
+  -> released: Walk
+Walk
+  -> released: Eminem
+Khaled
+  -> released: Off
+Off
+  -> released: Khaled
+couple
+  -> announced: tour
+  -> sold: records
+  -> attended: Awards
+  -> held: fundraiser
+  -> made: it
+  -> made: endorsements
+  -> bought: Highway
+first
+  -> played: Beyoncé
+outlets
+  -> describing: it
+show
+  -> paid: tribute
+tribute
+  -> paid: show
+  -> paid: which
+  -> paying: name
+pair
+  -> unveiled: Everything
+  -> released: video
+concepts
+  -> had: performance
+deal
+  -> signed: Beyoncé
+  -> signed: Beyoncé
+  -> signed: Beyoncé
+Homecoming
+  -> received: nominations
+Film
+  -> received: nominations
+King
+  -> starred: Beyoncé
+Parade
+  -> released: Beyoncé
+nomination
+  -> received: She
+pictures
+  -> removed: Beyoncé
+music
+  -> releasing: she
+  -> dominated: one
+  -> viewed: we
+speculation
+  -> caused: Beyoncé
+McCartney
+  -> joined: Beyoncé
+Renaissance
+  -> received: acclaim
+lyrics
+  -> included: song
+word
+  -> represented: term
+term
+  -> represented: word
+  -> used: media
+representative
+  -> issued: statement
+statement
+  -> issued: representative
+  -> released: Beyoncé
+criticism
+  -> faced: Beyoncé
+  -> received: Beyoncé
+  -> incited: This
+development
+  -> chronicles: film
+  -> oversaw: woman
+brand
+  -> launched: she
+  -> owns: She
+Critics
+  -> described: voice
+voice
+  -> described: Critics
+  -> lies: history
+  -> praised: Farber
+Rosen
+  -> highlights: tone
+  -> described: Beyoncé
+tone
+  -> highlights: Rosen
+era
+  -> influenced: style
+style
+  -> influenced: era
+critics
+  -> praise: range
+  -> credited: Beyoncé
+range
+  -> praise: critics
+history
+  -> lies: voice
+soul
+  -> incorporates: she
+exploration
+  -> demonstrated: 4
+credits
+  -> received: Beyoncé
+songwriting
+  -> approaches: she
+I
+  -> love: classics
+  -> admire: that
+  -> find: what
+  -> have: admiration
+  -> had: enough
+classics
+  -> love: I
+empowerment
+  -> themed: compositions
+compositions
+  -> themed: empowerment
+Sia
+  -> wrote: Hurts
+Hurts
+  -> wrote: Sia
+wrote
+  -> called: her
+Polachek
+  -> wrote: Angel
+Angel
+  -> wrote: Polachek
+magazine
+  -> listed: Beyoncé
+  -> recognized: Beyoncé
+  -> placed: eighth
+herself
+  -> attributed: she
+  -> align: She
+Fusari
+  -> provoked: which
+  -> told: Billboard
+Billboard
+  -> told: Fusari
+  -> named: her
+  -> named: her
+  -> named: her
+what
+  -> sells: records
+  -> did: she
+  -> describes: she
+  -> find: I
+  -> means: lite
+What
+  -> sells: records
+concept
+  -> had: Beyoncé
+him
+  -> presented: she
+Ross
+  -> admires: She
+Madonna
+  -> cited: Beyoncé
+singing
+  -> credits: She
+influences
+  -> include: Ferrell
+Ferrell
+  -> include: influences
+homage
+  -> paid: Beyoncé
+boldness
+  -> inspired: Beyoncé
+you
+  -> do: it
+admiration
+  -> expressed: Beyoncé
+  -> have: I
+Cher
+  -> cited: Beyoncé
+videos
+  -> introduced: band
+band
+  -> introduced: videos
+  -> introduced: Beyoncé
+  -> supported: Beyoncé
+bassists
+  -> includes: which
+appearance
+  -> made: They
+ex
+  -> described: Beyoncé
+-
+  -> described: Beyoncé
+President
+  -> described: Beyoncé
+Farber
+  -> praised: voice
+genre
+  -> taking: forms
+  -> changed: Beyoncé
+forms
+  -> taking: genre
+people
+  -> understand: that
+ego
+  -> created: she
+Fierce
+  -> described: She
+  -> won: Album
+media
+  -> used: term
+GQ
+  -> placed: her
+VH1
+  -> listed: her
+figure
+  -> features: Beyoncé
+addition
+  -> involved: collaboration
+collaboration
+  -> involved: addition
+styles
+  -> uses: Beyoncé
+mother
+  -> wrote: book
+book
+  -> wrote: mother
+fashion
+  -> affected: success
+Album
+  -> showed: instances
+  -> won: Fierce
+  -> won: Lemonade
+instances
+  -> showed: Album
+organization
+  -> criticized: Beyoncé
+  -> donated: necessities
+race
+  -> plays: role
+celebrities
+  -> attract: comments
+comments
+  -> attract: celebrities
+H&M
+  -> criticized: Beyoncé
+heritage
+  -> celebrate: her
+police
+  -> boycotting: Tour
+message
+  -> perceives: who
+themselves
+  -> sacrifice: who
+Both
+  -> acknowledged: difficulty
+difficulty
+  -> acknowledged: Both
+Z
+  -> had: affair
+  -> acquired: company
+affair
+  -> had: Z
+birth
+  -> gave: Beyoncé
+enough
+  -> had: I
+account
+  -> revealed: she
+twins
+  -> expecting: she
+announcement
+  -> gained: likes
+likes
+  -> gained: announcement
+image
+  -> uploaded: Beyoncé
+control
+  -> had: she
+America
+  -> performed: Beyoncé
+fundraiser
+  -> held: couple
+  -> attended: Beyoncé
+million
+  -> raised: which
+  -> earn: artists
+  -> donated: Beyoncé
+  -> donated: Beyoncé
+  -> donated: Beyoncé
+  -> donated: Beyoncé
+  -> donated: she
+pantsuits
+  -> wore: Beyoncé
+dancers
+  -> wore: slogan
+slogan
+  -> wore: dancers
+country
+  -> lead: woman
+bid
+  -> endorsed: She
+identification
+  -> incited: circulation
+circulation
+  -> incited: identification
+lot
+  -> gives: that
+  -> says: It
+lite
+  -> means: what
+we
+  -> judge: women
+  -> judge: men
+  -> seen: rise
+  -> viewed: music
+  -> had: conversations
+women
+  -> judge: we
+men
+  -> judge: we
+Lite
+  -> enables: this
+this
+  -> enables: Lite
+  -> equaling: Adele
+TV
+  -> uses: which
+marriage
+  -> championed: she
+  -> endorsed: Beyoncé
+bill
+  -> spoke: She
+rally
+  -> attended: She
+mothers
+  -> included: film
+support
+  -> voiced: Beyoncé
+  -> showed: Beyoncé
+fourth
+  -> placed: It
+eighth
+  -> placed: magazine
+Forbes
+  -> placed: Beyoncé
+  -> calculated: worth
+average
+  -> earned: Beyoncé
+endorsements
+  -> made: couple
+list
+  -> topped: she
+  -> topped: She
+  -> topped: She
+  -> See: Tours
+  -> See: =
+worth
+  -> calculated: Forbes
+  -> have: Beyoncé
+  -> donated: Beyoncé
+artists
+  -> earn: million
+  -> forgoing: R&B
+  -> releasing: songs
+  -> signed: Beyoncé
+Highway
+  -> bought: couple
+Clear
+  -> draws: parallel
+parallel
+  -> draws: Clear
+rise
+  -> seen: we
+Observer
+  -> named: Artist
+Artist
+  -> named: Observer
+way
+  -> influenced: songs
+NME
+  -> shared: thoughts
+thoughts
+  -> shared: NME
+Who
+  -> Defined: Decade
+Decade
+  -> Defined: Who
+implementation
+  -> invented: form
+form
+  -> invented: implementation
+  -> invented: Writing
+industry
+  -> dominates: that
+cadence
+  -> use: who
+credit
+  -> get: She
+vocabulary
+  -> changed: she
+R&B
+  -> forgoing: artists
+listeners
+  -> experience: album
+trend
+  -> initiated: album
+  -> started: which
+phenomenon
+  -> reached: endpoint
+endpoint
+  -> reached: phenomenon
+standard
+  -> set: which
+format
+  -> revived: Beyoncé
+releases
+  -> popularized: album
+Association
+  -> listed: Beyoncé
+Songwriter
+  -> received: she
+Otto
+  -> received: She
+difference
+  -> made: who
+Consequence
+  -> named: her
+Song
+  -> won: Ladies
+Adele
+  -> equaling: this
+each
+  -> making: total
+total
+  -> making: each
+Video
+  -> won: Ladies
+  -> won: Formation
+staff
+  -> have: experiences
+experiences
+  -> have: staff
+company
+  -> houses: suite
+  -> distributed: albums
+  -> acquired: husband
+  -> acquired: Z
+  -> founded: Beyoncé
+suite
+  -> houses: company
+albums
+  -> distributed: company
+Center
+  -> wrote: letter
+  -> built: Philanthropy
+  -> built: Beyoncé
+  -> established: Beyoncé
+letter
+  -> wrote: Center
+fragrance
+  -> promoted: she
+  -> launched: Beyoncé
+  -> launched: Beyoncé
+cancellation
+  -> meant: sacking
+sacking
+  -> meant: cancellation
+GateFive
+  -> lost: backers
+backers
+  -> lost: GateFive
+deals
+  -> had: Beyoncé
+majority
+  -> owning: stake
+stake
+  -> owning: majority
+partnership
+  -> formed: Beyoncé
+memberships
+  -> donating: Beyoncé
+Peloton
+  -> pursuing: partnerships
+partnerships
+  -> pursuing: Peloton
+conversations
+  -> had: we
+campaign
+  -> featured: painting
+painting
+  -> featured: campaign
+Beyonce
+  -> faced: backlash
+backlash
+  -> faced: Beyonce
+House
+  -> introduced: =
+  -> introduced: Beyoncé
+management
+  -> provides: which
+collection
+  -> features: sportswear
+  -> included: sportswear
+  -> included: blazers
+  -> marked: time
+sportswear
+  -> features: collection
+  -> included: collection
+handbags
+  -> include: that
+Mobile
+  -> launched: Diva
+Diva
+  -> launched: Mobile
+label
+  -> launched: Beyoncé
+blazers
+  -> included: collection
+Green
+  -> bought: She
+Knowles
+  -> develop: clothes
+clothes
+  -> develop: Knowles
+date
+  -> announced: they
+teaser
+  -> uploaded: Beyoncé
+decision
+  -> reached: Beyoncé
+time
+  -> marked: collection
+Philanthropy
+  -> built: Center
+Foundation
+  -> founded: Beyoncé
+250,000
+  -> contributed: Beyoncé
+100,000
+  -> donated: Beyoncé
+Apartments
+  -> founded: Beyoncé
+course
+  -> offers: which
+Benefit
+  -> donated: sum
+sum
+  -> donated: Benefit
+forces
+  -> joined: Beyoncé
+cover
+  -> released: Beyoncé
+concert
+  -> took: place
+part
+  -> took: Beyoncé
+creation
+  -> support: that
+thousands
+  -> bail: Lives
+Lives
+  -> bail: thousands
+team
+  -> held: luncheon
+luncheon
+  -> held: team
+initiatives
+  -> support: Beyoncé
+money
+  -> gives: she
+  -> donated: Beyoncé
+"In
+  -> donated: 82,000
+82,000
+  -> donated: "In
+  -> donated: Beyoncé
+Houston
+  -> launched: Beyoncé
+  -> visited: Beyoncé
+necessities
+  -> donated: organization
+lunch
+  -> sponsored: she
+homes
+  -> lost: who
+remix
+  -> released: Beyoncé
+  -> released: Beyoncé
+Bread
+  -> benefiting: proceeds
+tests
+  -> provided: Beyoncé
+Fund
+  -> established: Beyoncé
+grants
+  -> offers: which
+  -> given: fund
+fund
+  -> given: grants
+500,000
+  -> donated: Beyoncé
+Tours
+  -> See: list
